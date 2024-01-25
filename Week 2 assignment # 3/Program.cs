@@ -14,7 +14,7 @@ namespace Week_2_assignment___3
              * Then, create an array which has M row and Ncolumn and input the elements for those arrays.
              * Find the row which has the smallest sum of allelements among all rows in the array. */
 
-
+            
         }
     }
 }
